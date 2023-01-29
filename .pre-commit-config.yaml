@@ -10,7 +10,7 @@ repos:
           - id: check-json
           - id: check-executables-have-shebangs
           - id: check-shebang-scripts-are-executable
-#     - id: no-commit-to-branch # both main and master are protected by default
+#         - id: no-commit-to-branch # both main and master are protected by default
           - id: detect-private-key
           - id: detect-aws-credentials
             args:
