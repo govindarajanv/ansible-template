@@ -1,2 +1,5 @@
 # ansible-template
-ansible-template
+
+```bash
+$ molecule test
+```

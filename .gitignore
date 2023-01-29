@@ -1,0 +1,8 @@
+.DS_Store
+Softwares
+*.retry
+.vagrant
+credntials.tf
+.tfstate.*
+*.log
+scripts
