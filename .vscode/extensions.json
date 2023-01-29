@@ -5,6 +5,7 @@
         "snyk-security.snyk-vulnerability-scanner",
         "SonarSource.sonarlint-vscode",
         "ms-python.pylint",
+        "trunk.io",
         "esbenp.prettier-vscode"
     ]
 }
