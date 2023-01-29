@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "redhat.ansible",
+        "fnando.linter",
+        "snyk-security.snyk-vulnerability-scanner",
+        "SonarSource.sonarlint-vscode",
+        "ms-python.pylint",
+        "esbenp.prettier-vscode"
+    ]
+}
