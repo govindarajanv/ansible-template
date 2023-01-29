@@ -3,5 +3,3 @@
 ```bash
  molecule test
 ```
-
-wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
